@@ -1,15 +1,15 @@
 module.exports = {
-  title: '姚帆 - 个人简历',
+  title: '丘鸿飞 - 个人简历',
   ga_id: 'UA-80293062-1',
-  name: '姚帆',
+  name: '丘鸿飞',
   repo: 'https://github.com/yoohan-dex/resume.git',
-  job_description: ['前端工程师', 'JS工程师'],
+  job_description: [初级产品经理],
   contact: [{
     type: 'email',
-    value: 'yao460733480@outlook.com',
+    value: 'ctspiritson@163.com',
   }, {
     type: 'wechat',
-    value: 'yoohan-dex',
+    value: 'TaiZiCT',
   }, {
     type: 'github',
     value: 'yoohan-dex',
@@ -18,29 +18,27 @@ module.exports = {
     value: '暂无',
   }, {
     type: 'phone',
-    value: '13824829707',
+    value: '1830426787',
   }, {
     type: 'weibo',
-    value: 'yoohan555',
+    value: 'KenQCT',
   }],
   education: {
     type: 'undergraduate',
     school: '广东海洋大学',
-    major: '计算机科学（本科）',
+    major: '海洋科学（本科）',
     start: 2013,
     end: 2017,
-    honor: ['2016年蓝桥杯嵌入式省赛三等奖 ', '2017年度优秀毕业生'],
+ 
   },
   language: {
     type: 'english',
     certifications: [{
       type: 'CET-4',
       full: '710',
-      score: '580',
+      score: '455',
     }, {
-      type: 'CET-6',
-      full: '710',
-      score: '480',
+   
     }],
     descriptions: [
       '能 `流畅阅读` 英文专业书籍、文档',
