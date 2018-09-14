@@ -2,7 +2,7 @@ module.exports = {
   title: '丘鸿飞 - 个人简历',
   ga_id: 'UA-80293062-1',
   name: '丘鸿飞',
-  repo: 'https://github.com/yoohan-dex/resume.git',
+  repo: 'https://github.com/KennethChiuT/resume.git',
   job_description: ['前端工程师', 'JS工程师'],
   contact: [{
     type: 'email',
