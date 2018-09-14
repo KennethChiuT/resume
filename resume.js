@@ -1,36 +1,33 @@
 module.exports = {
-  title: '姚帆 - 个人简历',
+  title: '丘鸿飞 - 个人简历',
   ga_id: 'UA-80293062-1',
-  name: '姚帆',
+  name: '丘鸿飞',
   repo: 'https://github.com/yoohan-dex/resume.git',
   job_description: ['前端工程师', 'JS工程师'],
   contact: [{
     type: 'email',
-    value: 'yao460733480@outlook.com',
+    value: 'ctspiritson@163.com',
   }, {
     type: 'wechat',
-    value: 'yoohan-dex',
+    value: 'TaiZiCT',
   }, {
     type: 'github',
-    value: 'yoohan-dex',
+    value: 'KennethChiuT',
   }, {
     type: 'blog',
     value: '暂无',
   }, {
     type: 'phone',
-    value: '13824829707',
+    value: '18502048319',
   }, {
-    type: 'weibo',
-    value: 'yoohan555',
-  }],
-  education: {
+  
+   education: {
     type: 'undergraduate',
     school: '广东海洋大学',
-    major: '计算机科学（本科）',
+    major: '海洋（本科）',
     start: 2013,
     end: 2017,
-    honor: ['2016年蓝桥杯嵌入式省赛三等奖 ', '2017年度优秀毕业生'],
-  },
+ },
   language: {
     type: 'english',
     certifications: [{
@@ -38,9 +35,7 @@ module.exports = {
       full: '710',
       score: '580',
     }, {
-      type: 'CET-6',
-      full: '710',
-      score: '480',
+     
     }],
     descriptions: [
       '能 `流畅阅读` 英文专业书籍、文档',
@@ -49,7 +44,7 @@ module.exports = {
     ],
   },
   experience: [{
-    place: '腾讯用户研究与体验设计部',
+    place: 阿里用户研究与体验设计部',
     en: 'Frontend',
     ch: '前端开发',
     start: '2017.06.12',
@@ -71,16 +66,7 @@ module.exports = {
       '负责日常的杀人灭口工作',
     ],
   }],
-  projects: [{
-    ch: '简历生成器',
-    en: 'Resume Generator',
-    demo: 'https://yoohan-dex.github.io',
-    source: 'https://github.com/yoohan-dex/react-resume',
-    descriptions: [
-      '这份在线简历的生成器',
-      '从 `js文件 ` 中读取数据，使用 `React `生成 `HTML`，`Sass` 生成响应式样式',
-      '使用 `Webpack` 编译压缩及管理',
-    ],
+  
   }, {
     ch: 'redux单页登录流探索',
     en: 'Redux Loginflow',
